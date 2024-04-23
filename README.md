@@ -16,3 +16,6 @@ The URL "amqp://guest:guest@localhost:5672" is the connection string to the mess
 
 ## Monitoring chart based on publisher
 ![Chart](https://cdn.discordapp.com/attachments/314315831465213953/1232366717284384860/image.png?ex=66293271&is=6627e0f1&hm=505b5ee15d858c653227bcb11a9fe1832db01665a4afcd3f53d018ad5b9104f8&)
+
+## Slow Subscriber Simulation
+![Slow](https://cdn.discordapp.com/attachments/314315831465213953/1232367727168061522/image.png?ex=66293362&is=6627e1e2&hm=728ed4bdd27e6ee9036ebb206caaee4b518df1c4f4058138e27590fdfb7e1a98&)
