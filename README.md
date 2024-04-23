@@ -12,10 +12,12 @@ The URL "amqp://guest:guest@localhost:5672" is the connection string to the mess
 
 ## Sending and processing event
 
+By running `cargo run` on the publisher app, it sends out 5 events to the broker. Those events are processed by the subscriber.
+
 ![Event](https://cdn.discordapp.com/attachments/314315831465213953/1232364691305791508/image.png?ex=6629308e&is=6627df0e&hm=47be450d0541a30b95859acf1dfdc40968657c98f4d8abc9cdf263ef5e1ebd7c&)
 
 ## Monitoring chart based on publisher
-![Chart](https://cdn.discordapp.com/attachments/314315831465213953/1232366717284384860/image.png?ex=66293271&is=6627e0f1&hm=505b5ee15d858c653227bcb11a9fe1832db01665a4afcd3f53d018ad5b9104f8&)
 
-## Slow Subscriber Simulation
-![Slow](https://cdn.discordapp.com/attachments/314315831465213953/1232367727168061522/image.png?ex=66293362&is=6627e1e2&hm=728ed4bdd27e6ee9036ebb206caaee4b518df1c4f4058138e27590fdfb7e1a98&)
+A spike in the monitoring chart represents a sudden increase in the number of messages being published to the broker.
+
+![Chart](https://cdn.discordapp.com/attachments/314315831465213953/1232366717284384860/image.png?ex=66293271&is=6627e0f1&hm=505b5ee15d858c653227bcb11a9fe1832db01665a4afcd3f53d018ad5b9104f8&)
