@@ -9,3 +9,7 @@ The URL "amqp://guest:guest@localhost:5672" is the connection string to the mess
 ## Running RabbitMQ
 
 ![RabbitMQ](https://cdn.discordapp.com/attachments/314315831465213953/1232355746163986432/image.png?ex=66292839&is=6627d6b9&hm=836d6ad31a44a22ce4656e25de911d2017c3f9474d19e30f607c2ed6b7e965d8&)
+
+## Sending and processing event
+
+![Event](https://cdn.discordapp.com/attachments/314315831465213953/1232364691305791508/image.png?ex=6629308e&is=6627df0e&hm=47be450d0541a30b95859acf1dfdc40968657c98f4d8abc9cdf263ef5e1ebd7c&)
