@@ -5,3 +5,7 @@ The publisher program will send 5 messages to the message broker in one run.\
 ## The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean?
 
 The URL "amqp://guest:guest@localhost:5672" is the connection string to the message broker.
+
+## Running RabbitMQ
+
+![RabbitMQ](https://cdn.discordapp.com/attachments/314315831465213953/1232355746163986432/image.png?ex=66292839&is=6627d6b9&hm=836d6ad31a44a22ce4656e25de911d2017c3f9474d19e30f607c2ed6b7e965d8&)
