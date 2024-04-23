@@ -13,3 +13,6 @@ The URL "amqp://guest:guest@localhost:5672" is the connection string to the mess
 ## Sending and processing event
 
 ![Event](https://cdn.discordapp.com/attachments/314315831465213953/1232364691305791508/image.png?ex=6629308e&is=6627df0e&hm=47be450d0541a30b95859acf1dfdc40968657c98f4d8abc9cdf263ef5e1ebd7c&)
+
+## Monitoring chart based on publisher
+![Chart](https://cdn.discordapp.com/attachments/314315831465213953/1232366717284384860/image.png?ex=66293271&is=6627e0f1&hm=505b5ee15d858c653227bcb11a9fe1832db01665a4afcd3f53d018ad5b9104f8&)
